@@ -46,6 +46,14 @@ https://www.allcloud.in/loan-management-system
 - Generating statements, reports, and servicing documents
 - Integrating loan servicing data with external systems
 
+## Repository Resources
+
+- [Loan Management Software Overview](loan-management-software-overview.md)
+- [Loan Servicing Workflows](loan-servicing-workflows.md)
+- [Repayment and Collections Management](repayment-and-collections-management.md)
+- [Loan Restructuring, Prepayment, and Foreclosure](loan-restructuring-and-foreclosure.md)
+- [LMS Integrations](lms-integrations.md)
+
 ## Repository Purpose
 
 This repository is maintained as a public product resource for AllCloud Loan Management Software. It is intended to explain loan servicing concepts, LMS workflows, and post-disbursement lending operations.
